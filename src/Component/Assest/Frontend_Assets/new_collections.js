@@ -1,42 +1,53 @@
-import p14_img from './product_14.png'
-import p15_img from './product_15.png'
-import p16_img from './product_16.png'
-import p18_img from './product_18.png'
+
+import one from './1.png'
+import two from './2.png'
+import three from './3.jpeg'
+import four from './4.jpeg'
+import five from './5.jpeg'
+
 
 let new_collections = [
-{
-    id:12345,
-    name:"White color jacket",
-    image:p14_img,
-    new_price:6500,
-    old_price:7500,
-    color:"white",
-  },
+    {id:10,
+     name:"Zip-neck T-shirt",
+     image:one,
+     new_price:1599,
+     old_price:1800,
+     color:"Green and White",
+   },
+  
+   {id:20,
+     name:"Zip-neck T-shirt",
+     image:two,
+     new_price:1599,
+     old_price:1800,
+     color:"Blue and White",
+   },
  
-  {id:12468,
-    name:"black color jacket",
-    image:p15_img,
-    new_price:10000,
-    old_price:11000,
-    color:"black",
-  },
-  {id:35797,
-    name:"Active Block Hooded Jacket",
-    image:p16_img,
-    new_price:15000,
-    old_price:20000,
-    color:"Block",
-  },
-
+   
+   {id:30,
+     name:"Premium Striped Textured Shirt",
+     image:three,
+     new_price:1599,
+     old_price:1800,
+     color:"White",
+   },
  
-
-  {id:18008,
-    name:"gray color Tshirt",
-    image:p18_img,
-    new_price:5000,
-    old_price:6500,
-    color:"light Gray",
-  },
+    {id:40,
+     name:"Premium Striped Textured Shirt",
+     image:four,
+     new_price:1599,
+     old_price:1800,
+     color:"White",
+   },
+ 
+    {id:50,
+     name:"Premium Striped Textured Shirt",
+     image:five,
+     new_price:1599,
+     old_price:1800,
+     color:"White",
+   },
+ 
 
 ];
 
