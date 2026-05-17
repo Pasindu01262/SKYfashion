@@ -22,7 +22,7 @@ let data_product = [
   },
  
   {id:20,
-    name:"Cotton Single Jersey",
+    name:"Cotton Single T-shirt",
     image:two,
     new_price:1499,
     old_price:1750,
@@ -39,7 +39,7 @@ let data_product = [
   },
 
    {id:40,
-    name:"Cotton Single Jersey",
+    name:"Cotton Single T-shirt",
     image:four,
     new_price:1499,
     old_price:1750,
@@ -57,7 +57,7 @@ let data_product = [
 
 
    {id:60,
-    name:"Cotton Single Jersey",
+    name:"Cotton Single T-shirt",
     image:six,
     new_price:1499,
     old_price:1750,
@@ -65,7 +65,7 @@ let data_product = [
   },
 
     {id:70,
-    name:"Cotton Single Jersey",
+    name:"Cotton Single T-shirt",
     image:seventh,
     new_price:1499,
     old_price:1750,
