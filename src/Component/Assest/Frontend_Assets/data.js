@@ -1,25 +1,31 @@
 
 import one from './1.png'
-import three from './3.jpeg'
-import four from './7.jpeg'
-import ten from './12.jpeg'
+import two from './3.jpeg'
+import three from './5.jpeg'
+import four from './10.jpeg'
 
 
 
 
 let data_product = [
-   {id:10,
+  {id:10,
     name:"Zip-neck T-shirt",
     image:one,
     new_price:1599,
     old_price:1800,
     color:"Green and White",
   },
- 
- 
-
   
-  {id:30,
+  {id:20,
+    name:"Premium Striped Textured Shirt",
+    image:two,
+    new_price:1599,
+    old_price:1800,
+    color:"White",
+  },
+
+
+    {id:30,
     name:"Premium Striped Textured Shirt",
     image:three,
     new_price:1599,
@@ -27,25 +33,15 @@ let data_product = [
     color:"White",
   },
 
-   {id:40,
-    name:"Cotton Single T-shirt",
+
+
+     {id:40,
+    name:"Premium Striped Textured Shirt",
     image:four,
-    new_price:1499,
-    old_price:1750,
-    color:"Dark Blue",
-  },
-
-
-   
-
-   {id:100,
-    name:"Premium Linen Blend(Cotton Linen shirt)",
-    image:ten,
     new_price:2199,
-    old_price:3000,
+    old_price:2500,
     color:"White",
   },
-
     
 ];
 
