@@ -1,4 +1,3 @@
-
 import one from './1.png'
 import two from './2.jpeg'
 import three from './3.png'
