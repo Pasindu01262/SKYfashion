@@ -3,7 +3,7 @@ import one from './1.png'
 import two from './2.jpeg'
 import three from './3.png'
 import four from './4.jpeg'
-import five from './5.jpeg'
+
 
 
 let data_product = [
@@ -40,13 +40,7 @@ let data_product = [
     color:"White",
   },
 
-   {id:50,
-    name:"Premium remium Linen Blend(Cotton Linen shirt)",
-    image:five,
-    new_price:2390,
-    old_price:2800,
-    color:"White",
-  },
+ 
 
 
  
