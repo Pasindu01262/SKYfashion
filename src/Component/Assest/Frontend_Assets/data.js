@@ -27,8 +27,8 @@ let data_product = [
     {id:30,
     name:"Premium Striped Textured Shirt",
     image:three,
-    new_price:1999,
-    old_price:2300,
+    new_price:2390,
+    old_price:2800,
     color:"White",
   },
 
